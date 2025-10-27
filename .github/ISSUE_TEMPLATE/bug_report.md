@@ -23,6 +23,7 @@ A clear and concise description of what you expected to happen.
 A clear and concise description of what actually happened.
 
 ## Environment
+- Platform: [Web or Mobile (Android or iPhone) apps]
 - OS: [e.g., Windows 10, macOS 13, Ubuntu 22.04]
 - Version: [e.g., 1.0.0]
 - Browser (if applicable): [e.g., Chrome 120, Firefox 121]
