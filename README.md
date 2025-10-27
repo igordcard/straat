@@ -1,0 +1,2 @@
+# straat
+Strategy Execution Engine
