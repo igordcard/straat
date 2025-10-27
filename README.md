@@ -1,6 +1,7 @@
-# Straat - Issue Tracker
+# Straat
 
-This repository is dedicated to tracking bugs, feature requests, and other issues for the Straat project (Strategy Execution Engine).
+This repository is dedicated to tracking bugs, feature requests, and other issues for Straat.
+A roadmap may also be provided within the Projects section.
 
 ## ⚠️ Important Notice
 
@@ -10,7 +11,7 @@ This repository is dedicated to tracking bugs, feature requests, and other issue
 - 💬 Discussions and feedback
 - 📋 Issue tracking
 
-The actual Straat project code is hosted in a separate repository.
+The actual Straat code is hosted in a separate repository.
 
 ## How to Contribute
 
@@ -19,7 +20,7 @@ If you've found a bug, please open a new issue using the bug report template. In
 - A clear description of the problem
 - Steps to reproduce the issue
 - Expected vs. actual behavior
-- Environment details (OS, version, etc.)
+- Environment details (app vs web, version, etc.)
 
 ### Requesting Features
 Have an idea for a new feature? Open a feature request issue with:
@@ -32,9 +33,7 @@ For general questions or discussions about Straat, feel free to open a discussio
 
 ## Project Information
 
-**Straat** is a Strategy Execution Engine designed to help teams execute their strategic initiatives effectively.
-
-For more information about the project, please visit the main project repository (link will be provided once available).
+**Straat** is the Strategy Execution Engine, and there will be more information soon.
 
 ---
 
