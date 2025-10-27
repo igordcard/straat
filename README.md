@@ -1,7 +1,10 @@
 # Straat
+Strategy Execution Engine
 
 This repository is dedicated to tracking bugs, feature requests, and other issues for Straat.
 A roadmap may also be provided within the Projects section.
+
+[Report any bugs or request features here](https://github.com/igordcard/straat/issues).
 
 ## ⚠️ Important Notice
 
@@ -38,3 +41,5 @@ For general questions or discussions about Straat, feel free to open a discussio
 ---
 
 Thank you for your interest in making Straat better!
+
+[straat.ai](https://straat.ai)
