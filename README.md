@@ -6,15 +6,15 @@ A roadmap may also be provided within the Projects section.
 
 [Report any bugs or request features here](https://github.com/igordcard/straat/issues).
 
-## ⚠️ Important Notice
+## Important Notice
 
 **This repository does NOT contain any code.** It exists solely for:
-- 🐛 Bug reports
-- ✨ Feature requests
-- 💬 Discussions and feedback
-- 📋 Issue tracking
+- Bug reports
+- Feature requests
+- Discussions and feedback
+- Issue tracking
 
-The actual Straat code is hosted in a separate repository.
+The actual Straat code is hosted in separate locations, with public code availability TBD.
 
 ## How to Contribute
 
@@ -39,7 +39,5 @@ For general questions or discussions about Straat, feel free to open a discussio
 **Straat** is the Strategy Execution Engine, and there will be more information soon.
 
 ---
-
-Thank you for your interest in making Straat better!
 
 [straat.ai](https://straat.ai)
